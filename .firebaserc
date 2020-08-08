@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "authproject16": {
+      "hosting": {
+        "milli-gram": [
+          "authproject16"
+        ]
+      }
+    }
+  }
+}
